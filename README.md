@@ -6,9 +6,9 @@
 
 ### Первый год, первый семестр
 
-| № | Тема работы                          | Практическая работа  | Лабораторная работа | Шаблон отчета |
-|---|--------------------------------------|----------------------|---------------------|---------------|
-| 1 | Булева алгебра и логические элементы | [docx](practical_works/year_1/semester_1/practice_1/task.docx) | [docx](laboratory_works/year_1/semester_1/laboratory_1/task.docx) | [docx](practical_works/year_1/semester_1/practice_1/report_template.docx) |
-| 2 | Минимизация логических функций | [docx](practical_works/year_1/semester_1/practice_2/task.docx) | [docx](laboratory_works/year_1/semester_1/laboratory_2/task.docx) | --- |
-| 3 | Шифратор | [docx](practical_works/year_1/semester_1/practice_3/task.docx) | [docx](laboratory_works/year_1/semester_1/laboratory_3/task.docx) | --- |
-| 4 | Дешифратор | [docx](practical_works/year_1/semester_1/practice_4/task.docx) | [docx](laboratory_works/year_1/semester_1/laboratory_4/task.docx) | --- |
+| № | Тема работы                          | Практическая работа  | Лабораторная работа | Шаблон отчета | Разборы |
+|---|--------------------------------------|----------------------|---------------------|---------------| ------- |
+| 1 | Булева алгебра и логические элементы | [docx](practical_works/year_1/semester_1/practice_1/task.docx) | [docx](laboratory_works/year_1/semester_1/laboratory_1/task.docx) | [docx](practical_works/year_1/semester_1/practice_1/report_template.docx) | [1](https://youtu.be/CpWOhE7cmho), [2](https://youtu.be/4_nyt_UdJZs) |
+| 2 | Минимизация логических функций | [docx](practical_works/year_1/semester_1/practice_2/task.docx) | [docx](laboratory_works/year_1/semester_1/laboratory_2/task.docx) | --- | [1](https://youtu.be/kSehcJJ9aS4), [2](https://youtu.be/tdj_8bEGNZ8), [3](https://youtu.be/XGxO40lJVJE) |
+| 3 | Шифратор | [docx](practical_works/year_1/semester_1/practice_3/task.docx) | [docx](laboratory_works/year_1/semester_1/laboratory_3/task.docx) | --- | [1](https://youtu.be/PBGG88VsRCA), [2](https://youtu.be/0in_LgoW7yk) |
+| 4 | Дешифратор | [docx](practical_works/year_1/semester_1/practice_4/task.docx) | [docx](laboratory_works/year_1/semester_1/laboratory_4/task.docx) | --- | [1](https://youtu.be/PBGG88VsRCA), [2](https://youtu.be/0in_LgoW7yk) |
